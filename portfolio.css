@@ -119,7 +119,6 @@ body {
   width: inherit;
   height: inherit;
   border-radius: 20px;
-  display: flex;
   align-items: center;
   justify-content: space-evenly;
   flex-direction: column;
