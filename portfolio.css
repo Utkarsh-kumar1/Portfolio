@@ -345,7 +345,6 @@ textarea {
     font-size: 1.2rem;
   }
   .menue {
-    display: flex;
     width: 100%;
   }
   #menue_bar {
